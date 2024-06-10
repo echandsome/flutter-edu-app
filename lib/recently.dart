@@ -5,6 +5,7 @@ import 'dart:math' as math;
 import 'progress_indicator.dart';
 
 class Recently extends StatelessWidget {
+
   final List title = [
     "Unit 5 - Project Managing",
     "Unit 8 - Figma Design",
@@ -15,6 +16,7 @@ class Recently extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+  
     var rng = new math.Random.secure();
     return ListTile(
       leading: Container(

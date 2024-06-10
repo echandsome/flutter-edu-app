@@ -2,9 +2,11 @@ import 'package:edu_app/recently.dart';
 import 'package:flutter/material.dart';
 
 class Resources extends StatelessWidget {
+
   final _controller = TextEditingController();
   @override
   Widget build(BuildContext context) {
+
     return Scaffold(
         body: Container(
       decoration: BoxDecoration(
