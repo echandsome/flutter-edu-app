@@ -2,6 +2,7 @@ import 'package:flutter/animation.dart';
 import 'package:flutter/widgets.dart';
 
 class FAProgressBar extends StatefulWidget {
+
   FAProgressBar(
       {Key key,
       this.currentValue = 0,
@@ -36,6 +37,7 @@ class FAProgressBar extends StatefulWidget {
 
 class _FAProgressBarState extends State<FAProgressBar>
     with SingleTickerProviderStateMixin {
+    
   Animation<double> _animation;
   AnimationController _controller;
   double _currentBegin = 0;
