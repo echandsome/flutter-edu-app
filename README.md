@@ -29,11 +29,3 @@ If you found this project useful, then please consider giving it a :star: on Git
 [Check this now](https://1.envato.market/07QmM)
 
 ![Shoppers](https://i.imgur.com/c8Ghzt7.png)
-
-
-## Project Created & Maintained By
-
-### HathTech Innovations Pvt. Ltd.
-
-<a href="https://twitter.com/hathtech"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://facebook.com/hathtech"><img src="https://github.com/aritraroy/social-icons/blob/master/facebook-icon.png?raw=true" width="60"></a>
